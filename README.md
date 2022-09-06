@@ -3,6 +3,14 @@
 ### - Lembrar:
 #### a. Criar um arquivo sql: data.sql
 #### b. Configurar o application.properties
+#### c. Adicionar no pom a dependência(pode ser pelo starters ou manualmente):
+````
+<dependency>
+			<groupId>com.h2database</groupId>
+			<artifactId>h2</artifactId>
+			<scope>runtime</scope>
+</dependency>
+````
 
 #### 1. Verificar no console o endpoint criado:
 ````
