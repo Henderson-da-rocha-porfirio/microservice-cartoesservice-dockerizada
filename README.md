@@ -92,6 +92,6 @@ mvn spring-boot:build-image
 ````
 ## Correndo o docker image com a porta:
 ````
-docker run -p 8090:8090 hendersonporfirio/microservice-cards
+docker run -p 9000:9000 hendersonporfirio/microservice-cards
 
 ````
