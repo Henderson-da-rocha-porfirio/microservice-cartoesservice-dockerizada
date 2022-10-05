@@ -26,7 +26,7 @@ http://localhost:8080/h2-console/
 ````
 #### 4. Testando no Postman:
 ````
-http://localhost:9000/myAccount
+http://localhost:9000/myCards
 ````
 ##### - se der um erro 415: Content type 'text/plain;charset=UTF-8' not supported], colocar no Headers:
 ````
