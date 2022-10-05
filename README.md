@@ -33,7 +33,6 @@ http://localhost:9000/myCards
 1. KEY: Content-Type
 2. VALUE: application/json
 ````
-#### - A beleza dos Microservices: Não há nada acoplado da regra de negócio com os microserviços contas ou empréstimos.
 
 #### 5. A beleza dos Microservices: Não há nada acoplado da regra de negócio com os microserviços cartões ou contas.
 
