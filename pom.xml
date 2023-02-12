@@ -10,10 +10,10 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tuyo</groupId>
-	<artifactId>microservice-cards</artifactId>
+	<artifactId>untitled1</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
-	<name>cards</name>
+	<name>untitled1</name>
 	<description>Microservice for Cards</description>
 	<properties>
 	</properties>
